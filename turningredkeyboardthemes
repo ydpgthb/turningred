@@ -1,0 +1,29 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "disney",
+      "high_paying_keyword_2": "encanto",
+      "high_paying_keyword_3": "encanto disney plus",
+      "high_paying_keyword_4": "encanto disney",
+      "high_paying_keyword_5": "disney hotstar",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+      {
+"url_theme": "https://i.pinimg.com/originals/bb/53/b4/bb53b4c62b8cbad398f490a1919e242d.png"
+}
+  ]
+
+
+}
