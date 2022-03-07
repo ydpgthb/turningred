@@ -3,7 +3,7 @@
   "album": [
     "turning red"
   ],
-  "init_jumlah_photo": 50,
+  "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-3940256099942544/63009781112",
   "admob_interstitial_id": "ca-app-pub-3940256099942544/10331737123",
   "admob_native_id": "ca-app-pub-3940256099942544/22476961101",
