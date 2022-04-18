@@ -1,7 +1,7 @@
 {
   "username": "permadipinterstyulianto",
   "album": [
-  "turning red", "red panda", "mei lee n friends", "Fan Art TR"
+  "red panda", "mei lee n friends", "Fan Art TR", "turning red"
   ],
   "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-9610807312861673/5830807376",
@@ -19,7 +19,7 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 3,
   "list_ads": [
     "ADMOB"
    
