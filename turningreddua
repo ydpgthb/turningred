@@ -4,9 +4,9 @@
     "turningredwallpaper"
   ],
   "init_jumlah_photo": 200,
-  "admob_banner_id": "ca-app-pub-9610807312861673/45350811567",
+  "admob_banner_id": "ca-app-pub-9610807312861673/8410697626",
   "admob_interstitial_id": "ca-app-pub-9610807312861673/23843566901",
-  "admob_native_id": "ca-app-pub-9610807312861673/74451116834",
+  "admob_native_id": "ca-app-pub-9610807312861673/2966799257",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "ca-app-pub-9610807312861673/35058666734",
@@ -19,7 +19,7 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 7,
   "list_ads": [
     "ADMOB"
    
