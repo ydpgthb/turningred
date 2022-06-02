@@ -16,12 +16,12 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
   "startapp_app_id": "",
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
-  "interstitial_inverval": 1,
+  "unity_id": "4781848",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 4,
   "list_ads": [
-    "ADMOB"
+    "UNITY"
    
   ]
 }
