@@ -21,6 +21,7 @@
   "unity_interstitial": "Interstitial_Android",
   "interstitial_inverval": 4,
   "list_ads": [
+    "ADMOB",
     "UNITY"
    
   ]
