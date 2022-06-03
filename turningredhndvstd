@@ -4,12 +4,12 @@
   "red panda", "mei lee n friends", "Fan Art TR", "turning red"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-9610807312861673/6511016928",
-  "admob_interstitial_id": "ca-app-pub-9610807312861673/1993187413",
-  "admob_native_id": "ca-app-pub-9610807312861673/7531905812",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-9610807312861673/1801615721",
+  "admob_open_app_id": "",
   "admob_hpk_1": "",
   "admob_hpk_2": "",
   "admob_hpk_3": "",
@@ -21,7 +21,6 @@
   "unity_interstitial": "Interstitial_Android",
   "interstitial_inverval": 4,
   "list_ads": [
-    "ADMOB",
     "UNITY"
    
   ]
