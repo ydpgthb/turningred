@@ -4,23 +4,24 @@
   "red panda", "mei lee n friends", "Fan Art TR", "turning red"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "admob_banner_id": "ca-app-pub-9610807312861673/8748245561",
+  "admob_interstitial_id": "ca-app-pub-9610807312861673/2174835021",
+  "admob_native_id": "ca-app-pub-9610807312861673/1991265525",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_open_app_id": "ca-app-pub-9610807312861673/6860448825",
+  "admob_hpk_1": "Turning Red movie",
+  "admob_hpk_2": "Turning Red",
+  "admob_hpk_3": "Disney Turning Red",
+  "admob_hpk_4": "Pixar Turning Red",
+  "admob_hpk_5": "Canada",
   "startapp_app_id": "",
   "unity_id": "4781848",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "interstitial_inverval": 4,
   "list_ads": [
+    "ADMOB",
     "UNITY"
    
   ]
